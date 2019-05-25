@@ -1,2 +1,3 @@
 # hw2
-I like this one
+I like this one $/sigma$
+ 
